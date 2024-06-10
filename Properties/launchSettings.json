@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DrawingOnDesktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DrawingOnDesktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
